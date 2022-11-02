@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @amountcastlej
+- 👋 Hi, I’m Adam Joines
 - 👀 I’m interested in Pickleball 
 - 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on React projects
 - 📫 How to reach me amountcastlej@gmail.com
 
 <!---
