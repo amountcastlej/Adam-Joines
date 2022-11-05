@@ -1,7 +1,3 @@
-- 👋 Hi, I’m Adam Joines
-- 👀 I’m interested in Pickleball 
-- 🌱 I’m currently learning React 
-- 📫 How to reach me amountcastlej@gmail.com
 
 <!---
 amountcastlej/amountcastlej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,12 +31,14 @@ You can click the Preview link to take a look at your changes.
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
+-👋 Hi, I’m Adam Joines
+- 📫 How to reach me amountcastlej@gmail.com
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **React**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about ** Basketball, Pickleball, or anything**. <br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <div align="center" >
-<a  href="https://github.com/SP-XD">
+<a  href="https://github.com/amountcastlej">
 
 </a>
 
