@@ -30,12 +30,14 @@ You can click the Preview link to take a look at your changes.
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-07405E?style=flat&logo=sqlite&logoColor=white)
 
--👋 Hi, I’m Adam Joines
+👋 Hi, I’m Adam Joines
 - 📫 How to reach me amountcastlej@gmail.com
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **React**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about ** Basketball, Pickleball, or anything**. <br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+-  <img alt="GIF" "https://www.linkedin.com/in/adam-joines-800759b5" width="25" /> &nbsp; I’m currently learning **React**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
+- Ask me about ** Basketball, Pickleball, or anything**. <br>
+- &nbsp;&nbsp;<img src="https://github.com/amountcastlej/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Every half an hour you spend looking at a screen, take twenty seconds to look away from the screen<br>
 
 <div align="center" >
 <a  href="https://github.com/amountcastlej">
