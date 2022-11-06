@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
 👋 Hi, I’m Adam Joines
 - 📫 How to reach me amountcastlej@gmail.com
--  <img alt="GIF" "https://www.linkedin.com/in/adam-joines-800759b5" width="25" /> &nbsp; I’m currently learning **React**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
+-  [![LinkedIn]((https://www.linkedin.com/in/adam-joines-800759b5 ))] width="25" /> &nbsp; I’m currently learning **React**.<br>
 - Ask me about ** Basketball, Pickleball, or anything**. <br>
 - &nbsp;&nbsp;<img src="https://github.com/amountcastlej/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Every half an hour you spend looking at a screen, take twenty seconds to look away from the screen<br>
 
