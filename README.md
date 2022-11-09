@@ -32,6 +32,10 @@ You can click the Preview link to take a look at your changes.
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/React-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![MySQL](https://img.shields.io/badge/MySQL-07405E?style=flat&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MySQL-07405E?style=flat&logo=sqlite&logoColor=white)
+![Express](https://img.shields.io/badge/MySQL-07405E?style=flat&logo=sqlite&logoColor=white)
+
+
 
 👋 Hi, I’m Adam Joines
 - 📫 How to reach me amountcastlej@gmail.com
