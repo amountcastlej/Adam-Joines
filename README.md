@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <br>at Coding Dojo at night.
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Pandora]([https://www.pandora.com/station/play/4192611813403737226](https://www.pandora.com/station/play/4192611813403737226)] <br>
+([https://www.pandora.com/station/play/4192611813403737226](https://www.pandora.com/station/play/4192611813403737226) <br>
 
 <hr></hr>
 
