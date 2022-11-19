@@ -36,8 +36,7 @@ You can click the Preview link to take a look at your changes.
 ![MySQL](https://img.shields.io/badge/MySQL-07405E?style=flat&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-07405E?style=flat&logo=sqlite&logoColor=white)
-
-![Node](https://img.shields.io/badge/Node-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Node JS](https://img.shields.io/badge/Node-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
 
 
