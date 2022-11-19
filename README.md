@@ -37,6 +37,8 @@ You can click the Preview link to take a look at your changes.
 ![MongoDB](https://img.shields.io/badge/MongoDB-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-07405E?style=flat&logo=sqlite&logoColor=white)
 
+![Node](https://img.shields.io/badge/Node-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
 
 
 👋 Hi, I’m Adam Joines
