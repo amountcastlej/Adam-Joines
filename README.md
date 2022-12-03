@@ -57,7 +57,7 @@ You can click the Preview link to take a look at your changes.
 
 <hr></hr>
 
-![dino_rounded](https://user-images.githubusercontent.com/76575654/205417137-b42900e0-8ca0-453b-a09d-f21875c223bb.gif width="40%")
+![dino_rounded](https://user-images.githubusercontent.com/76575654/205417137-b42900e0-8ca0-453b-a09d-f21875c223bb.gif)
 
 </div>
 
