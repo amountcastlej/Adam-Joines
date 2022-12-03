@@ -57,7 +57,10 @@ You can click the Preview link to take a look at your changes.
 
 <hr></hr>
 
+![dino_rounded](https://user-images.githubusercontent.com/76575654/205417137-b42900e0-8ca0-453b-a09d-f21875c223bb.gif)
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" width="75%"/><br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/>
 
 </div>
+
