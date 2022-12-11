@@ -9,9 +9,9 @@ You can click the Preview link to take a look at your changes.
   <h1>Hey Friends!</h1>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
   
-<p><strong>Web Designer by day, Teaching Assistant
+<h3>Web Designer by day, Teaching Assistant
 <br>at Coding Dojo at night.
-<br><br> Vibing to : 🎧  </strong></p>
+<br><br> Vibing to : 🎧  <h3>
 
 [https://www.pandora.com/station/play/4192611813403737226](https://www.pandora.com/station/play/4192611813403737226) <br>
 
