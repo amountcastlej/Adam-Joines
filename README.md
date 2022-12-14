@@ -41,10 +41,10 @@ You can click the Preview link to take a look at your changes.
 
 
 👋 Hi, I’m Adam Joines
-- 📫 How to reach me amountcastlej@gmail.com
--  https://www.linkedin.com/in/adam-joines-800759b5 <br><br>&nbsp; I’m currently learning **React**.<br>
--  Recently worked on this website https://simpltechnologysolutions.com/
-- Ask me about ** Basketball, Pickleball, or anything**. <br>
+   📫 How to reach me amountcastlej@gmail.com
+-  https://www.linkedin.com/in/adam-joines-800759b5 <br><br>&nbsp; I’m currently learning **React**.<br><br>
+-  Recently worked on this website https://simpltechnologysolutions.com/<br><br>
+- Ask me about ** Basketball, Pickleball, or anything**. <br><br>
 - &nbsp;&nbsp;<img src="https://github.com/amountcastlej/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Every half an hour you spend looking at a screen, take twenty seconds to look away from the screen<br>
 
 <div align="center" >
