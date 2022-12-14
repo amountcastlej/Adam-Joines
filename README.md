@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-1572B6?style=flat&logo=Bootstrap3&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
 ![Terminal](https://img.shields.io/badge/GNU%20Terminal-4EAA25?style=flat&logo=GNU%20Terminal&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)<br><br>
+![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)<br>
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
    https://www.linkedin.com/in/adam-joines-800759b5 <br><br>&nbsp; I’m currently learning **React**.<br><br>
    Recently worked on this website https://simpltechnologysolutions.com/<br><br>
    Ask me about ** Basketball, Pickleball, or anything**. <br><br>
-  &nbsp;&nbsp;<img src="https://github.com/amountcastlej/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Every half an hour you spend looking at a screen, take twenty seconds to look away from the screen<br>
+   Fun fact: Every half an hour you spend looking at a screen, take twenty seconds to look away from the screen<br>
 
 <div align="center" >
 <a  href="https://github.com/amountcastlej">
