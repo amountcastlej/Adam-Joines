@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
   
 <h3>Web Designer by day, Teaching Assistant
 <br>at Coding Dojo at night.
-<br><br> Vibing to : 🎧  <h3>
 
-[https://www.pandora.com/station/play/4192611813403737226](https://www.pandora.com/station/play/4192611813403737226) <br>
+<br><br><h2>My Motto for Coding</h2>
+![pikachu](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fnever-gonna-give-up-gifs&psig=AOvVaw0L70ADdaEi_U2LPxH_UEk5&ust=1671405479372000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCLiQseDkgfwCFQAAAAAdAAAAABAg)
 
 <hr></hr>
 
@@ -44,13 +44,11 @@ You can click the Preview link to take a look at your changes.
    📫 How to reach me amountcastlej@gmail.com<br><br>
    https://www.linkedin.com/in/adam-joines-800759b5 <br><br>&nbsp; I’m currently learning **React**.<br><br>
    Recently worked on this website https://simpltechnologysolutions.com/<br><br>
-   Ask me about ** Basketball, Pickleball, or anything**. <br><br>
+   Ask me about ** Basketball, Pickleball, Video Games or anything**. <br><br>
    Fun fact: Every half an hour you spend looking at a screen, take twenty seconds to look away from the screen<br>
 
 <div align="center" >
-<a  href="https://github.com/amountcastlej">
-
-</a>
+<a href="https://github.com/amountcastlej"></a>
 
 
 </details>
