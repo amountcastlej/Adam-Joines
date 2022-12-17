@@ -13,7 +13,8 @@ You can click the Preview link to take a look at your changes.
 <br>at Coding Dojo at night.
 
 <br><br><h2>My Motto for Coding</h2>
-![rickroll](https://user-images.githubusercontent.com/76575654/208269632-a22a0bd7-dbd1-4c50-86a4-31871108ee8f.gif)
+![never-gonna-give-you-up-dancing](https://user-images.githubusercontent.com/76575654/208269892-9f9959f8-bfce-41b0-a8f2-588949f01bee.gif)
+
 
 
 <hr></hr>
