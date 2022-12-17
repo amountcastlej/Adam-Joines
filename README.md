@@ -13,7 +13,8 @@ You can click the Preview link to take a look at your changes.
 <br>at Coding Dojo at night.
 
 <br><br><h2>My Motto for Coding</h2>
-![pikachu](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fnever-gonna-give-up-gifs&psig=AOvVaw0L70ADdaEi_U2LPxH_UEk5&ust=1671405479372000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCLiQseDkgfwCFQAAAAAdAAAAABAg)
+![rickroll](https://user-images.githubusercontent.com/76575654/208269632-a22a0bd7-dbd1-4c50-86a4-31871108ee8f.gif)
+
 
 <hr></hr>
 
