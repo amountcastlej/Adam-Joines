@@ -13,9 +13,7 @@ You can click the Preview link to take a look at your changes.
 <br>at Coding Dojo at night.
 
 <br><br><h2>My Motto for Coding</h2>
-![never-gonna-give-you-up-dancing](https://user-images.githubusercontent.com/76575654/208269892-9f9959f8-bfce-41b0-a8f2-588949f01bee.gif)
-
-
+![never-gonna-give-you-up-dancing](https://user-images.githubusercontent.com/76575654/208482882-ed636da6-ed46-4e1d-9ad6-e7a2adb9173a.gif)
 
 <hr></hr>
 
