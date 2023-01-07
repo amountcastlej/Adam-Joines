@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/React-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-323330?style=flat&logo=react&logoColor=F7DF1E)
 ![MySQL](https://img.shields.io/badge/MySQL-07405E?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-07405E?style=flat&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-07405E?style=flat&logo=javascript&logoColor=F7DF1E)
