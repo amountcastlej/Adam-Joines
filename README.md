@@ -42,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 👋 Hi, I’m Adam Joines<br><br>
    📫 How to reach me amountcastlej@gmail.com<br><br>
    [LinkedIn](https://www.linkedin.com/in/adam-joines-800759b5)<br><br>
-   &nbsp; I’m currently learning **React**.<br><br>
+   &nbsp; I’m currently learning **MERN**.<br><br>
    Recently worked on this website https://simpltechnologysolutions.com/<br><br>
    Ask me about ** [NBA Basketball](https://www.youtube.com/watch?v=LAr6oAKieHk), [Pickleball](https://www.youtube.com/watch?v=4OQC7cvfmm8), Video Games or anything**. <br><br>
    Fun fact: Every half an hour you spend looking at a screen, take twenty seconds to look away from the screen<br>
