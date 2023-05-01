@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
   
 <h3>Web Designer by day, Teaching Assistant
-<br>at Coding Dojo at night.
+<br>at night.
 
 <br><br><h2>My Motto for Coding</h2>
 ![never-gonna-give-you-up-dancing](https://user-images.githubusercontent.com/76575654/208482882-ed636da6-ed46-4e1d-9ad6-e7a2adb9173a.gif)
