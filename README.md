@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
   
 <h3>Web Designer by day, <br> Software developer
 at night.
-
 <hr></hr> 
+  
 <br><br><h2>My Motto for Coding</h2>
 ![never-gonna-give-you-up-dancing](https://user-images.githubusercontent.com/76575654/208482882-ed636da6-ed46-4e1d-9ad6-e7a2adb9173a.gif)
 
