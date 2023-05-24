@@ -55,7 +55,7 @@ at night.
 </details>
 
 
-<hr></hr>
+<br>
 
 <h3>Tough day of coding? Here are some Pikachu to cheer you up</h3>
 
