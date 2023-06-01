@@ -51,8 +51,6 @@ at night.
 <div align="center" >
 <a href="https://github.com/amountcastlej"></a>
 
-
-</details>
   
 <br>
 
