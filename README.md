@@ -53,14 +53,13 @@ at night.
 
 
 </details>
-
-
+  
 <br>
 
 <h3>Tough day of coding? Here are some Pikachu to cheer you up</h3>
 
 ![pikachu](https://user-images.githubusercontent.com/76575654/205540945-4b8373f3-0c97-4fc8-a874-3ae16782066e.gif)
-<br>
+<br><br>
 ![dino_rounded](https://user-images.githubusercontent.com/76575654/205417137-b42900e0-8ca0-453b-a09d-f21875c223bb.gif)
 
 </div>
