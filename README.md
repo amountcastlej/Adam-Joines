@@ -16,7 +16,7 @@ at night.
 <br><br><h2>My Motto for Coding</h2>
 ![never-gonna-give-you-up-dancing](https://user-images.githubusercontent.com/76575654/208482882-ed636da6-ed46-4e1d-9ad6-e7a2adb9173a.gif)
 
-<hr></hr>
+<br>
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
