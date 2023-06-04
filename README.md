@@ -37,9 +37,7 @@ at night.
 ![MongoDB](https://img.shields.io/badge/MongoDB-07405E?style=flat&logo=MongoDB&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-07405E?style=flat&logo=express&logoColor=F7DF1E)
 ![Node JS](https://img.shields.io/badge/NodeJS-323330?style=flat&logo=NodeJS&logoColor=F7DF1E)
-![React Native](https://img.shields.io/badge/React-323330?style=flat&logo=react&logoColor=F7DF1E)  
-
-
+ 
 
 👋 Hi, I’m Adam Joines<br><br>
    📫 How to reach me amountcastlej@gmail.com<br><br>
@@ -51,7 +49,6 @@ at night.
 
 <div align="center" >
 <a href="https://github.com/amountcastlej"></a>
-
   
 <br>
 
