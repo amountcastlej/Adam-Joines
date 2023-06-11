@@ -49,9 +49,7 @@ at night.
 
 <div align="center" >
 <a href="https://github.com/amountcastlej"></a>
-  
-<br>
-
+ 
 <h3>Tough day of coding? Here are some Pikachu to cheer you up</h3>
 
 ![pikachu](https://user-images.githubusercontent.com/76575654/205540945-4b8373f3-0c97-4fc8-a874-3ae16782066e.gif)
