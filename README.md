@@ -29,7 +29,9 @@ at night.
 ![Terminal](https://img.shields.io/badge/GNU%20Terminal-4EAA25?style=flat&logo=GNU%20Terminal&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![image](https://github.com/amountcastlej/Profile-Page/assets/76575654/feecae34-590d-4666-bddb-116fd7a2dc14)
+![image](https://github.com/amountcastlej/Profile-Page/assets/76575654/1562d80c-b538-4565-a29e-1f986540b088)
+
+(https://github.com/amountcastlej/Profile-Page/assets/76575654/feecae34-590d-4666-bddb-116fd7a2dc14)
 
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
