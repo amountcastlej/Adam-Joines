@@ -20,7 +20,7 @@ at night.
 
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -37,6 +37,7 @@ at night.
 ![Express](https://img.shields.io/badge/Express-07405E?style=flat&logo=express&logoColor=F7DF1E)
 ![Node JS](https://img.shields.io/badge/NodeJS-323330?style=flat&logo=NodeJS&logoColor=F7DF1E)
  ![java](https://img.shields.io/badge/Java-323330?style=flat&logo=Java&logoColor=F7DF1E)
+ 
 
 👋 Hi, I’m Adam Joines<br><br>
    📫 How to reach me amountcastlej@gmail.com<br><br>
