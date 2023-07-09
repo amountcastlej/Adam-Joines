@@ -36,7 +36,7 @@ at night.
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-07405E?style=flat&logo=express&logoColor=F7DF1E)
 ![Node JS](https://img.shields.io/badge/NodeJS-323330?style=flat&logo=NodeJS&logoColor=F7DF1E)
- ![java](https://img.shields.io/badge/Java-323330?style=flat&logo=Java&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
  
 
 👋 Hi, I’m Adam Joines<br><br>
