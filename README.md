@@ -42,7 +42,7 @@ at night.
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Swift Badge](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=flat-square)
-
+![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=plastic)
 
 
 
