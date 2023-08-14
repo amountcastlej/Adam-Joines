@@ -45,8 +45,6 @@ at night.
 ![Wix Badge](https://img.shields.io/badge/Wix-0C6EFC?logo=wix&logoColor=fff&style=flat)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=plastic)
 
-
-
  
 
 👋 Hi, I’m Adam Joines<br><br>
