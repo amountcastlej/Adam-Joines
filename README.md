@@ -50,7 +50,7 @@ at night.
    📫 How to reach me amountcastlej@gmail.com<br><br>
    [LinkedIn](https://www.linkedin.com/in/adam-joines-800759b5)<br><br>
    &nbsp; I’m currently learning **React Native**.<br><br>
-   Recently worked on these websites <br><br>https://simpltechnologysolutions.com<br><br>
+   Recently worked on these websites <br><br>https://simpltechnologysolutions.com<br
 https://www.accesswheelchair4all.com 
    <br><br>
    Ask me about ** [NBA Basketball](https://www.youtube.com/watch?v=LAr6oAKieHk), [Pickleball](https://www.youtube.com/watch?v=4OQC7cvfmm8), Video Games or anything**. <br><br>
